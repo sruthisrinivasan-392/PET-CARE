@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "fof")(type "KiCad")(uri "C:/Users/RAMYA/OneDrive/Desktop/code/fof")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
